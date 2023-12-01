@@ -1,21 +1,21 @@
 hlock
 =====
 
-Once upon a time there was a hardlock with [Microchip's 16F84].
+Once upon a time  
+Hardlock with [16F84]  
+Encrypting data
 
-It's whole purpose to encrypt data flowing across the serial port.
+Cycles counted fast  
+To communicate abroad  
+Powered by the port
 
-It counted its own cycles to properly communicate.
+[Op-amp] brought the power in  
+But the connection was weak  
+Frequent deaths occurred
 
-It was powered by the serial port with use of [op-amp].
+In a plastic mold it sat  
+Fragile and vulnerable  
+A story comes to end
 
-That power didn't work well.
-
-It died frequently.
-
-This wasn't good since it was molded in plastic.
-
-The End
-
-[Microchip's 16F84]:http://en.wikipedia.org/wiki/PIC16x84
+[16F84]:http://en.wikipedia.org/wiki/PIC16x84
 [op-amp]:http://en.wikipedia.org/wiki/Operational_amplifier
